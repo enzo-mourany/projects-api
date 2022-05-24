@@ -63,5 +63,27 @@
         "delivered": "",
         "githubLink": "https://github.com/enzo-mourany/wine-commands.git",
         "date": "2022"
+    },
+    {
+        "id": 7,
+        "title": "Card Game",
+        "img": "",
+        "description": "Game of 6 qui prend, with graphical interface windows form",
+        "tech": ["C#"],
+        "retex": "test",
+        "delivered": "",
+        "githubLink": "https://github.com/enzo-mourany/card-game-iut.git",
+        "date": "2022"
+    },
+    {
+        "id": 8,
+        "title": "Client Pop3",
+        "img": "",
+        "description": "Development of a network interface",
+        "tech": ["C#"],
+        "retex": "test",
+        "delivered": "",
+        "githubLink": "https://github.com/enzo-mourany/client-pop3.git",
+        "date": "2022"
     }
 ]
