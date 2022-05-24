@@ -1,7 +1,7 @@
 [{
         "id": 1,
         "title": "The Tabata App",
-        "img": ["tabata1", "tabata2"],
+        "img": ["tabata1.png", "tabata2.png"],
         "description": "A simple Tabata application compatible on IOS and Android. My React Native project",
         "tech": ["React Native"],
         "retex": "This project is the first application I coded in React Native. Thanks to him, I was able to learn the basics of React Native and React as well as how IOS Simulator works. I was able to apply my knowledge in ES6 and learn the main elements of react like Hooks.",
