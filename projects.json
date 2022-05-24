@@ -1,60 +1,66 @@
 [{
         "id": 1,
         "title": "The Tabata App",
-        "img": "../public/PNG/tabata-app.png",
+        "img": ["./IMG/tabata1", "../IMG/tabata2"],
         "description": "A simple Tabata application compatible on IOS and Android. My React Native project",
         "tech": ["React Native"],
-        "retex": "test",
+        "retex": "This project is the first application I coded in React Native. Thanks to him, I was able to learn the basics of React Native and React as well as how IOS Simulator works. I was able to apply my knowledge in ES6 and learn the main elements of react like Hooks.",
+        "delivered": "The app is a tabata. It has a countdown, two duration selectors, one for exercise time and one for rest time. It also has a button to go to the countdown page, a start button, a pause button and a reset button. Finally, it has a settings page",
         "githubLink": "https://github.com/enzo-mourany/the-tabata-app.git",
         "date": "2022"
     },
     {
         "id": 2,
         "title": "Lowatem AI",
-        "img": "../public/PNG/tabata-app.png",
+        "img": "./IMG/lowatem.png",
         "description": "Project for the IUT. Board game with two opposing players and AI development",
         "tech": ["Java"],
         "retex": "test",
+        "delivered": "",
         "githubLink": "https://github.com/enzo-mourany/ia_lowatem",
         "date": "2022"
     },
     {
         "id": 3,
         "title": "Pong",
-        "img": "../public/PNG/tabata-app.png",
+        "img": "./IMG/pong.png",
         "description": "First project for the IUT. Development of the classic pong game with objects, collision, balls and sprites management.",
         "tech": ["Java", "Processing"],
         "retex": "test",
+        "delivered": "",
         "githubLink": "https://github.com/enzo-mourany/pong-java-iut",
         "date": "2021"
     },
     {
         "id": 4,
         "title": "Clajem",
-        "img": "../public/PNG/tabata-app.png",
+        "img": "",
         "description": "Project for the IUT. Creation of an electric skateboard rental and sale business. Realization of the PESTEL analysis and its website. Team project",
         "tech": ["HTML", "CSS"],
         "retex": "test",
+        "delivered": "",
         "githubLink": "github-link test",
         "date": "2021"
     },
     {
         "id": 5,
         "title": "Storyboard",
-        "img": "../public/PNG/tabata-app.png",
+        "img": "",
         "description": "Project for the IUT. Creation of an electric skateboard rental and sale business. Realization of the PESTEL analysis and its website. Team project",
         "tech": ["Shell", "HTML"],
         "retex": "test",
+        "delivered": "",
         "githubLink": "https://github.com/enzo-mourany/storyboard.git",
         "date": "2021"
     },
     {
         "id": 6,
         "title": "Wine Orders",
-        "img": "../public/PNG/tabata-app.png",
+        "img": "",
         "description": "Project for the IUT. Creation and conception of database to manage wine orders. Team project",
         "tech": ["SQL"],
         "retex": "test",
+        "delivered": "",
         "githubLink": "https://github.com/enzo-mourany/wine-commands.git",
         "date": "2022"
     }
