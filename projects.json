@@ -34,7 +34,7 @@
     {
         "id": 4,
         "title": "Clajem",
-        "img": "",
+        "img": "lowatem.png",
         "description": "Project for the IUT. Creation of an electric skateboard rental and sale business. Realization of the PESTEL analysis and its website. Team project",
         "tech": ["HTML", "CSS"],
         "retex": "test",
@@ -45,7 +45,7 @@
     {
         "id": 5,
         "title": "Storyboard",
-        "img": "",
+        "img": "lowatem.png",
         "description": "Project for the IUT. Creation of an electric skateboard rental and sale business. Realization of the PESTEL analysis and its website. Team project",
         "tech": ["Shell", "HTML"],
         "retex": "test",
@@ -56,7 +56,7 @@
     {
         "id": 6,
         "title": "Wine Orders",
-        "img": "",
+        "img": "lowatem.png",
         "description": "Project for the IUT. Creation and conception of database to manage wine orders. Team project",
         "tech": ["SQL"],
         "retex": "test",
@@ -67,7 +67,7 @@
     {
         "id": 7,
         "title": "Card Game",
-        "img": "",
+        "img": "lowatem.png",
         "description": "Game of 6 qui prend, with graphical interface windows form",
         "tech": ["C#"],
         "retex": "test",
@@ -78,7 +78,7 @@
     {
         "id": 8,
         "title": "Client Pop3",
-        "img": "",
+        "img": "lowatem.png",
         "description": "Development of a network interface",
         "tech": ["C#"],
         "retex": "test",
