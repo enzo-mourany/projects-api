@@ -1,7 +1,7 @@
 [{
         "id": 1,
         "title": "The Tabata App",
-        "img": ["./IMG/tabata1", "../IMG/tabata2"],
+        "img": ["tabata1", "tabata2"],
         "description": "A simple Tabata application compatible on IOS and Android. My React Native project",
         "tech": ["React Native"],
         "retex": "This project is the first application I coded in React Native. Thanks to him, I was able to learn the basics of React Native and React as well as how IOS Simulator works. I was able to apply my knowledge in ES6 and learn the main elements of react like Hooks.",
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "title": "Lowatem AI",
-        "img": "./IMG/lowatem.png",
+        "img": "lowatem.png",
         "description": "Project for the IUT. Board game with two opposing players and AI development",
         "tech": ["Java"],
         "retex": "test",
@@ -23,7 +23,7 @@
     {
         "id": 3,
         "title": "Pong",
-        "img": "./IMG/pong.png",
+        "img": "pong.png",
         "description": "First project for the IUT. Development of the classic pong game with objects, collision, balls and sprites management.",
         "tech": ["Java", "Processing"],
         "retex": "test",
