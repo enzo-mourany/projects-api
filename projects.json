@@ -59,8 +59,8 @@
         "img": "lowatem.png",
         "description": "Project for the IUT. Creation and conception of database to manage wine orders. Team project",
         "tech": ["SQL"],
-        "retex": "test",
-        "delivered": "",
+        "retex": "This project allowed me to learn the basics of SQL, database creation, database filling and make queries on a database",
+        "delivered": "Creation of a SQL database for a wine order management application. In this application, it is possible to place orders at a château, search for orders placed in an order history, search for a château, search for a wine, sort wines by year and by château.",
         "githubLink": "https://github.com/enzo-mourany/wine-commands.git",
         "date": "2022"
     },
@@ -70,8 +70,8 @@
         "img": "lowatem.png",
         "description": "Game of 6 qui prend, with graphical interface windows form",
         "tech": ["C#"],
-        "retex": "test",
-        "delivered": "",
+        "retex": "I was able to acquire a good foundation in C# and improve my practice of object-oriented development. I learned how to handle events in C# with Windows Form",
+        "delivered": "Creation of the 6 qui prend card game with Windows Form. It was necessary to code the functionalities of the game window, player management, maps, points and game management buttons. We also had to design the graphical interface",
         "githubLink": "https://github.com/enzo-mourany/card-game-iut.git",
         "date": "2022"
     },
@@ -81,8 +81,8 @@
         "img": "lowatem.png",
         "description": "Development of a network interface",
         "tech": ["C#"],
-        "retex": "test",
-        "delivered": "",
+        "retex": "This project allowed me to develop my networking skills",
+        "delivered": "Development of a graphical network administration interface to observe all transactions",
         "githubLink": "https://github.com/enzo-mourany/client-pop3.git",
         "date": "2022"
     }
